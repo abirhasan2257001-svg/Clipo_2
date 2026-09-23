@@ -1,0 +1,6 @@
+{
+  "name": "CapCut Video",
+  "description": "Buttery smooth video editor like CapCut with precision timeline, keyframe animation tools, 60fps real-time preview, audio & text overlays, and high-end video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
